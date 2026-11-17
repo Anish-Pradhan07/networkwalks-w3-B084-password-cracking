@@ -131,8 +131,8 @@ The Networkwalks online tools produced the same cracked password as the local Jo
 | Ease of use for beginners | Moderate (GUI simplifies this) | High (fully guided, no setup) |
 | Data privacy | Hash stays local | Hash uploaded to third-party service |
 ## Evidence Collected
-<img width="813" height="553" alt="Screenshot (179)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag-1.png" />
-<img width="598" height="542" alt="Screenshot (181)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag1-jtr.png" />
+<img width="813" height="553" alt="Screenshot (179)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag1-jtr.png" />
+<img width="598" height="542" alt="Screenshot (181)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag-1.png" />
 <img width="1283" height="646" alt="Screenshot (183)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag2-pdf-hash.png" />
 <img width="1271" height="669" alt="Screenshot (184)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag-2-password.png" />
 <img width="1309" height="650" alt="Screenshot (185)" src="https://github.com/Anish-Pradhan07/networkwalks-w3-B084-password-cracking/blob/main/WK3-Screenshots/flag-2.png" />
