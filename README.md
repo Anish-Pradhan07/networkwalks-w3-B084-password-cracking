@@ -145,9 +145,9 @@ The Networkwalks online tools produced the same cracked password as the local Jo
 
 ## 8. Key Takeaways
 
-- Both a locally installed tool and a free online tool were able to recover the same password from the same hash, showing that **password strength — not tool availability — is the real defense**.
+- Both a locally installed tool and a free online tool were able to recover the same password from the same hash, showing that **password strength is  not tool availability, it is the real defense**.
 - Uploading a hash to an online cracking service (as in Module 2) means the hash leaves your machine; for real engagements, this is **not appropriate for sensitive or client data** and local tools like JTR should be used instead.
 - This exercise reinforces why organizations should use long, random passphrases (and, where possible, file-level encryption combined with strong access controls) rather than relying on password protection alone.
 
 ---
-Pentesting Project Report | Networkwalks | Anish Pradhan
+**Pentesting Project Report | Networkwalks | Anish Pradhan**
